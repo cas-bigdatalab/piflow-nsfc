@@ -7,7 +7,7 @@ import org.junit.Test
 class NSFCStopTest {
 
   @Test
-  def testNSFC() : Unit ={
+  def testNSFCStop() : Unit ={
 
   }
 }
